@@ -1,0 +1,1632 @@
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR demo.py:8 error msg
+WARNING demo.py:9 warn msg
+INFO demo.py:10 info msg
+DEBUG demo.py:11 debug msg
+INFO _internal.py:113 127.0.0.1 - - [23/Mar/2020 14:52:11] "[37mGET /api/v1.0/index HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\manage.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR demo.py:8 error msg
+WARNING demo.py:9 warn msg
+INFO demo.py:10 info msg
+INFO _internal.py:113 127.0.0.1 - - [23/Mar/2020 16:59:53] "[37mGET /api/v1.0/index HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:00:49] "[33mGET / HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:00:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:03] "[37mGET /static/html/index.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:03] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:03] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:03] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:03] "[37mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:03] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:03] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:03] "[37mGET /static/css/ihome/index.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:03] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:03] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:03] "[37mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:03] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:03] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:04] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:04] "[37mGET /static/js/ihome/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:04] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:04] "[37mGET /static/images/home01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:04] "[37mGET /static/images/home02.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:04] "[37mGET /static/images/home03.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:01:04] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:02:06] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:02:06] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:00] "[36mGET /static/html/index.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:00] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:11] "[36mGET /static/html/index.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:11] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/html/index.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/css/ihome/index.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/images/home01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/js/ihome/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[37mGET /static/images/home02.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:37] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 09:48:38] "[37mGET /static/images/home03.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\web_html.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\web_html.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\web_html.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\web_html.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\web_html.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\web_html.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 10:32:50] "[36mGET /static/html/index.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 10:32:50] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 10:33:14] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 10:33:15] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 10:33:25] "[37mGET /register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 10:33:25] "[37mGET /static/css/ihome/register.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 10:33:25] "[37mGET /static/js/ihome/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 10:33:28] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [24/Mar/2020 10:33:28] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:28] "[36mGET / HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/css/reset.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/css/ihome/main.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/css/ihome/index.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/js/jquery.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/js/template.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/js/ihome/index.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/images/logo@128x59.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/images/home01.jpg HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/images/home02.jpg HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/images/home03.jpg HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:06:29] "[36mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:07:05] "[35m[1mGET /api/v1.0/image_codes/123 HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:07:05] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:07:05] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:07:05] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:07:05] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:07:05] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:07:05] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\utils\\captcha\\captcha.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\utils\\captcha\\captcha.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\utils\\captcha\\captcha.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:16:31] "[35m[1mGET /api/v1.0/image_codes/123 HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:16:31] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:16:31] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:16:31] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:16:31] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:16:31] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:16:31] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\utils\\captcha\\captcha.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\utils\\captcha\\captcha.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:25:07] "[37mGET /api/v1.0/image_codes/123 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:25:07] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:53:59] "[37mGET /api/v1.0/image_codes/456 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 16:54:35] "[37mGET /api/v1.0/image_codes/456 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:32:44] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:32:44] "[36mGET /static/css/ihome/register.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:32:44] "[37mGET /static/js/ihome/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:03] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:06] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:07] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:24] "[37mGET /register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:24] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:24] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:24] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:24] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:24] "[37mGET /static/css/ihome/register.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:24] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:24] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:24] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:24] "[37mGET /static/js/ihome/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:24] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:24] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:24] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:29] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:33:29] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:34:58] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:34:58] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:37:37] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:37:37] "[37mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:37:37] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:37:37] "[37mGET /static/css/ihome/index.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:37:37] "[37mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:37:37] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:37:37] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:37:37] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:37:37] "[37mGET /static/js/ihome/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:37:37] "[37mGET /static/images/home01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:37:37] "[37mGET /static/images/home02.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:37:37] "[37mGET /static/images/home03.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:38:05] "[37mGET /register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:38:05] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:38:05] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:38:05] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:38:05] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:38:05] "[37mGET /static/css/ihome/register.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:38:05] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:38:05] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:38:05] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:38:05] "[37mGET /static/js/ihome/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:38:05] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:38:05] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:38:05] "[37mGET /api/v1.0/image_codes/6ef76025-3019-4f19-a730-394a229fc605 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:38:05] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:39:26] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:39:26] "[37mGET /api/v1.0/image_codes/69e838f2-b4fb-41f4-89e6-48084b6a9975 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:39:26] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:39:28] "[37mGET /api/v1.0/image_codes/b2e4e728-8c32-4100-abf2-2f4181e6953a HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:39:28] "[37mGET /api/v1.0/image_codes/3bd014e5-dba3-418c-b757-40e511256201 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:39:29] "[37mGET /api/v1.0/image_codes/2a76699a-0096-4f01-9645-4b2b9539d9ba HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:39:29] "[37mGET /api/v1.0/image_codes/3016a3d9-bd58-4b41-9f97-840aee11cac7 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:39:29] "[37mGET /api/v1.0/image_codes/a94fdc96-071f-4ac9-936f-04fae359018e HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Mar/2020 17:39:29] "[37mGET /api/v1.0/image_codes/a55724f9-a278-4f8b-aa36-0f0e48a77a47 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:08:36] "[37mGET /api/v1.0/sms_codes/15835509533 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:56] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[37mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[37mGET /static/css/ihome/index.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[36mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[36mGET /static/css/reset.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[36mGET /static/css/ihome/main.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[36mGET /static/js/jquery.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[36mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[37mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[37mGET /static/js/ihome/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[36mGET /static/images/logo@128x59.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[37mGET /static/images/home01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[36mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[37mGET /static/images/home02.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:10:57] "[37mGET /static/images/home03.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:11:00] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:11:00] "[36mGET /static/css/ihome/register.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:11:00] "[36mGET /static/js/ihome/register.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:11:01] "[37mGET /api/v1.0/image_codes/ad7fb508-4951-438d-a06f-ce3cfe7f1d79 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:11:03] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:12:37] "[37mGET /api/v1.0/sms_codes/15835509533?image_code_id=ad7fb508-4951-438d-a06f-ce3cfe7f1d79&image_code=abcd HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:12:56] "[37mGET /api/v1.0/sms_codes/15835509533?image_code_id=ad7fb508-4951-438d-a06f-ce3cfe7f1d79&image_code=abcd HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:14:00] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:14:00] "[37mGET /api/v1.0/image_codes/c28c9f35-86b0-46b4-98bb-57f6138d2c40 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:14:00] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:14:50] "[37mGET /api/v1.0/sms_codes/15835509533?image_code_id=c28c9f35-86b0-46b4-98bb-57f6138d2c40&image_code=asdf HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:16:12] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:16:12] "[37mGET /api/v1.0/image_codes/736e93e7-6782-406c-a2dd-76b49994e0be HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:16:12] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:16:52] "[37mGET /api/v1.0/sms_codes/15835509533?image_code_id=736e93e7-6782-406c-a2dd-76b49994e0be&image_code=asdf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:17:15] "[37mGET /api/v1.0/sms_codes/15835509533?image_code_id=736e93e7-6782-406c-a2dd-76b49994e0be&image_code=WGEY HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:17:23] "[37mGET /api/v1.0/sms_codes/15835509533?image_code_id=736e93e7-6782-406c-a2dd-76b49994e0be&image_code=WGEY HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:18:33] "[37mGET /api/v1.0/sms_codes/15835509533?image_code_id=c28c9f35-86b0-46b4-98bb-57f6138d2c40&image_code=CMQI HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:18:52] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:18:52] "[37mGET /api/v1.0/image_codes/4a8930b5-d073-4d67-9a7a-67aa41a6da03 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:18:52] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:19:38] "[37mGET /api/v1.0/sms_codes/15835509533?image_code_id=4a8930b5-d073-4d67-9a7a-67aa41a6da03&image_code=MRJ5 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:20:31] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:20:31] "[37mGET /api/v1.0/image_codes/91b96229-6aca-4f72-8885-1380646b7086 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:20:31] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:20:35] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:20:36] "[37mGET /api/v1.0/image_codes/c89d33f4-ecc5-4ec3-b911-3f266287d3d3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:20:36] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:21:19] "[37mGET /api/v1.0/sms_codes/15835509533?image_code_id=c89d33f4-ecc5-4ec3-b911-3f266287d3d3&image_code=ZRBT HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:24:59] "[37mGET /api/v1.0/sms_codes/15835509533?image_code_id=c89d33f4-ecc5-4ec3-b911-3f266287d3d3&image_code=ZRBT HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:25:20] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:25:20] "[37mGET /api/v1.0/image_codes/d8cee0d0-c2bb-4bb6-9f9f-32f5d27834ff HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:25:20] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:26:03] "[37mGET /api/v1.0/sms_codes/15835509533?image_code_id=d8cee0d0-c2bb-4bb6-9f9f-32f5d27834ff&image_code=DEAH HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:28:55] "[37mGET /api/v1.0/image_codes/37eeeaf5-09f6-4242-aa18-d8bdd6495444 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:29:41] "[37mGET /api/v1.0/sms_codes/15835509533?image_code_id=37eeeaf5-09f6-4242-aa18-d8bdd6495444&image_code=jcki HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:29:54] "[37mGET /api/v1.0/sms_codes/15835509533?image_code_id=37eeeaf5-09f6-4242-aa18-d8bdd6495444&image_code=JCKI HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:30:02] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:30:02] "[37mGET /api/v1.0/image_codes/3cff749e-ea02-4b27-9b6f-371ffde1c5dc HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:30:02] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:30:42] "[37mGET /api/v1.0/sms_codes/15835509533?image_code_id=3cff749e-ea02-4b27-9b6f-371ffde1c5dc&image_code=HWZB HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:47:52] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:47:52] "[37mGET /api/v1.0/image_codes/9b091a42-6808-4954-91db-d0035d14607b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:47:52] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:50:11] "[37mGET /api/v1.0/sms_codes/15111111111?image_code=werr&image_code_id=9b091a42-6808-4954-91db-d0035d14607b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:50:35] "[37mGET /api/v1.0/sms_codes/15111111111?image_code=3UAS&image_code_id=9b091a42-6808-4954-91db-d0035d14607b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:55:06] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:55:06] "[37mGET /api/v1.0/image_codes/82d5c602-622b-4b18-8723-76eee58c456d HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 15:55:06] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:01:33] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:01:33] "[37mGET /api/v1.0/image_codes/2cb04c86-36b6-458f-bb4a-629b0b642678 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:01:33] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:02:16] "[37mGET /api/v1.0/sms_codes/18235531860?image_code=DTP5&image_code_id=2cb04c86-36b6-458f-bb4a-629b0b642678 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\libs\\yuntongxun\\sms.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:08:27] "[37mGET /api/v1.0/sms_codes/15835509533?image_code=DTP5&image_code_id=2cb04c86-36b6-458f-bb4a-629b0b642678 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:08:33] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:08:33] "[37mGET /api/v1.0/image_codes/eaffecf8-544f-4ff6-8fc8-349cdaaff433 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:08:33] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:08:36] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:08:36] "[37mGET /api/v1.0/image_codes/6075b5e5-f99e-4b3c-94ba-9bc07b79e11b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:08:36] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:09:13] "[37mGET /api/v1.0/sms_codes/15835509533?image_code=AVST&image_code_id=6075b5e5-f99e-4b3c-94ba-9bc07b79e11b HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:26:57] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:26:57] "[37mGET /api/v1.0/image_codes/b13639c8-c222-425d-837a-c2b82213e184 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:26:57] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+ERROR verify_code.py:106 'CCP' object has no attribute 'sendTemplateSMS'
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:27:36] "[37mGET /api/v1.0/sms_codes/15835509533?image_code=EL56&image_code_id=b13639c8-c222-425d-837a-c2b82213e184 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\libs\\yuntongxun\\sms.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:29:11] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:29:11] "[37mGET /api/v1.0/image_codes/fbe358c9-2b04-4b8e-9e6b-79bc547c4f97 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:29:11] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:29:49] "[37mGET /api/v1.0/sms_codes/15835509533?image_code=NSTB&image_code_id=fbe358c9-2b04-4b8e-9e6b-79bc547c4f97 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 16:30:23] "[37mGET /api/v1.0/sms_codes/15835509533?image_code=NSTB&image_code_id=fbe358c9-2b04-4b8e-9e6b-79bc547c4f97 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\constants.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\constants.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:05:31] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:05:31] "[37mGET /api/v1.0/image_codes/4f962cc7-46d3-44d7-a958-f7b97cafc323 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:05:31] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:05:50] "[37mGET /api/v1.0/image_codes/f26b371f-d1a2-4e10-8922-cfdad5702601 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:06:14] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:06:14] "[37mGET /api/v1.0/image_codes/abc6d1cf-e40d-4f9d-a60f-171567f76bcc HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:06:14] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:07:37] "[37mGET /api/v1.0/sms_codes/15835509533?image_code=I7FP&image_code_id=abc6d1cf-e40d-4f9d-a60f-171567f76bcc HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:07:55] "[37mGET /api/v1.0/sms_codes/18234554754?image_code=I7FP&image_code_id=abc6d1cf-e40d-4f9d-a60f-171567f76bcc HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:08:00] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:08:00] "[37mGET /api/v1.0/image_codes/b1c5515a-9e32-4247-ba3b-214c8663fbeb HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:08:00] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:08:36] "[37mGET /api/v1.0/sms_codes/18234554754?image_code=EUFR&image_code_id=b1c5515a-9e32-4247-ba3b-214c8663fbeb HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:09:47] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:09:47] "[37mGET /api/v1.0/image_codes/cdf2ac89-4518-445f-9437-5387d592509a HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:09:47] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:10:09] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:10:09] "[37mGET /api/v1.0/image_codes/997f1cb7-fcab-4562-b917-b4d31918d931 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:10:09] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:10:43] "[37mGET /api/v1.0/sms_codes/18234554754?image_code=4CWQ&image_code_id=997f1cb7-fcab-4562-b917-b4d31918d931 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:10:51] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:10:51] "[37mGET /api/v1.0/image_codes/64078963-9b6f-4bf3-868d-50ec045d0dea HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:10:51] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:10:59] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:10:59] "[37mGET /api/v1.0/image_codes/9264ce6b-a840-4ddb-8338-214a398d35c0 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:10:59] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:11:51] "[37mGET /api/v1.0/sms_codes/18234554754?image_code=OREX&image_code_id=9264ce6b-a840-4ddb-8338-214a398d35c0 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:15:46] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:15:46] "[37mGET /api/v1.0/image_codes/f8c24da0-1f41-4d51-a8ec-19081d45f111 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:15:46] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:16:33] "[37mGET /api/v1.0/sms_codes/18234554754?image_code=CHKZ&image_code_id=f8c24da0-1f41-4d51-a8ec-19081d45f111 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:16:33] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:16:33] "[37mGET /api/v1.0/image_codes/0cefb188-d201-4017-94ce-2a24df4d56e6 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:16:34] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 17:17:03] "[37mGET /api/v1.0/sms_codes/18234554754?image_code=HDOM&image_code_id=0cefb188-d201-4017-94ce-2a24df4d56e6 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:23:35] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:23:35] "[37mGET /api/v1.0/image_codes/367efed4-e153-4dc5-94e2-1fb402bd1de0 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:23:35] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:23:55] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:23:55] "[37mGET /api/v1.0/image_codes/cfabc30e-bd8c-4276-8e7b-bdc0fb3977fa HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:23:55] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:22] "[33mGET /api/smscode?mobile=18234554754&code=nqdn&codeId=cfabc30e-bd8c-4276-8e7b-bdc0fb3977fa HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:27] "[37mGET /api/v1.0/image_codes/551a887d-e09e-4ed2-8f40-a6f565badd32 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:28] "[37mGET /api/v1.0/image_codes/ea1a019d-0a66-4d5a-b236-9c2558131021 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:53] "[37mGET /register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:53] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:53] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:53] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:53] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:54] "[37mGET /static/css/ihome/register.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:54] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:54] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:54] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:54] "[37mGET /static/js/ihome/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:54] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:54] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:54] "[37mGET /api/v1.0/image_codes/2cae6e1b-add1-4d7f-9f01-fab733e8e39c HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:24:54] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:02] "[37mGET /register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:02] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:02] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:02] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:02] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:02] "[37mGET /static/css/ihome/register.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:02] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:02] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:02] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:02] "[37mGET /static/js/ihome/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:02] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:02] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:02] "[37mGET /api/v1.0/image_codes/ad13adf2-e453-4096-b298-f7955344faeb HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:02] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:08] "[37mGET /api/v1.0/image_codes/c3eba024-f603-4cd0-82a5-9c8571cd6b2b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:10] "[37mGET /api/v1.0/image_codes/fd7a2fcf-500d-4f15-82e6-4cd4e92b384f HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:11] "[37mGET /api/v1.0/image_codes/969d134c-cfee-4923-b1eb-e0ecee506616 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:32] "[37mGET /api/v1.0/sms_codes/18234554754?image_code=IFW8&image_code_id=969d134c-cfee-4923-b1eb-e0ecee506616 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:25:32] "[33mGET /api/smscode?mobile=18234554754&code=IFW8&codeId=969d134c-cfee-4923-b1eb-e0ecee506616 HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:15] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:15] "[37mGET /api/v1.0/image_codes/db45dafe-f99f-4cbe-8258-527cf4fd1524 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:15] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:21] "[37mGET /register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:21] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:21] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:21] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:21] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:21] "[37mGET /static/css/ihome/register.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:21] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:21] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:21] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:21] "[37mGET /static/js/ihome/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:21] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:22] "[37mGET /api/v1.0/image_codes/6195fe0d-e174-4257-bf1a-70b9c786cd96 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:22] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:22] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:24] "[37mGET /api/v1.0/image_codes/f2c4121f-00d4-44c1-b482-ce04ab7f9bce HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [26/Mar/2020 18:26:38] "[37mGET /api/v1.0/sms_codes/18234554754?image_code=gtdw&image_code_id=f2c4121f-00d4-44c1-b482-ce04ab7f9bce HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:48:40] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:48:41] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:48:41] "[36mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:48:41] "[36mGET /static/css/reset.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:48:41] "[36mGET /static/css/ihome/main.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:48:41] "[36mGET /static/css/ihome/register.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:48:41] "[36mGET /static/images/logo@128x59.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:48:41] "[36mGET /static/js/jquery.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:48:41] "[36mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:48:41] "[36mGET /static/js/ihome/register.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:48:41] "[36mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:48:41] "[37mGET /api/v1.0/image_codes/730cdb41-5865-4ead-9a5d-9ea6965e2384 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:48:41] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:48:41] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:49:06] "[37mGET /api/v1.0/image_codes/1899bda7-e92f-42d8-a0f9-28059ba66008 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:49:19] "[37mGET /api/v1.0/sms_codes/18234554752?image_code=zy57&image_code_id=1899bda7-e92f-42d8-a0f9-28059ba66008 HTTP/1.1[0m" 200 -
+INFO csrf.py:258 The CSRF token is missing.
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:53:49] "[31m[1mPOST /api/v1.0/users HTTP/1.1[0m" 400 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:57:12] "[37mGET /api/v1.0/image_codes/3b0dfdc7-3013-4517-b36a-08e37d338861 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:57:14] "[37mGET /api/v1.0/image_codes/b99052d5-2ab5-4abb-8c15-673d9507ec60 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:57:20] "[37mGET /api/v1.0/sms_codes/18234554752?image_code=ec9V&image_code_id=b99052d5-2ab5-4abb-8c15-673d9507ec60 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:57:29] "[37mGET /api/v1.0/image_codes/32bc70bd-d9c2-43f1-ba4b-c61a9b5b4d8d HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:57:30] "[37mGET /api/v1.0/image_codes/11966558-503d-4646-9f82-4f4c1259fe0d HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:57:32] "[37mGET /api/v1.0/image_codes/e5a08232-47af-4940-9ab7-bc8b68456e09 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:57:43] "[37mGET /api/v1.0/sms_codes/18234554752?image_code=cri5&image_code_id=e5a08232-47af-4940-9ab7-bc8b68456e09 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:58:24] "[37mPOST /api/v1.0/users HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:58:38] "[37mPOST /api/v1.0/users HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:28] "[37mPOST /api/v1.0/users HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:37] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:37] "[37mGET /api/v1.0/image_codes/0e685e8e-45b2-41ed-9238-56cbd5da3f59 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:37] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:45] "[37mGET /register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:45] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:46] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:46] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:46] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:46] "[37mGET /static/css/ihome/register.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:46] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:46] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:46] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:46] "[37mGET /static/js/ihome/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:46] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:46] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:46] "[37mGET /api/v1.0/image_codes/cb79014c-f2cb-4bd1-9dff-f5cb74746b0e HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 10:59:46] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 11:00:02] "[37mGET /api/v1.0/sms_codes/18234554753?image_code=ttzf&image_code_id=cb79014c-f2cb-4bd1-9dff-f5cb74746b0e HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 11:00:27] "[37mPOST /api/v1.0/users HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 11:02:09] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 11:02:09] "[37mGET /api/v1.0/image_codes/9da0dbf4-3799-4081-aed6-a5b0c4f57df2 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 11:02:10] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 11:02:18] "[37mGET /api/v1.0/image_codes/b49bc146-7fb1-4659-8909-c5de79959858 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 11:02:28] "[37mGET /api/v1.0/sms_codes/18234554755?image_code=nvnt&image_code_id=b49bc146-7fb1-4659-8909-c5de79959858 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 11:03:08] "[37mPOST /api/v1.0/users HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:38:37] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:38:37] "[37mGET /api/v1.0/image_codes/f2f52b2d-b8b8-4795-85e9-91a612e200e9 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:38:37] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:00] "[37mGET /api/v1.0/sms_codes/18234554751?image_code=vsuo&image_code_id=f2f52b2d-b8b8-4795-85e9-91a612e200e9 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:32] "[37mPOST /api/v1.0/users HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:36] "[37mGET /index.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:36] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:36] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:36] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/css/ihome/index.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/js/ihome/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/images/home01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/images/home02.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/images/home03.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 14:39:37] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:01:00] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:07:37] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:23] "[37mGET /register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:23] "[37mGET /static/css/ihome/register.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:23] "[37mGET /static/js/ihome/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:24] "[37mGET /api/v1.0/image_codes/1c324734-9c3c-435d-90ce-613c77560d82 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:25] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:26] "[37mGET /api/v1.0/image_codes/6dbe2f6f-4cc0-4e92-ab1e-62dbcfd11481 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:26] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:32] "[37mGET /register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:32] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:32] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:32] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:32] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:32] "[37mGET /static/css/ihome/register.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:32] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:32] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:32] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:32] "[37mGET /static/js/ihome/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:32] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:32] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:32] "[37mGET /api/v1.0/image_codes/46ab4559-f0de-4ef3-b129-e1ffa4ef863c HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:32] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:22:49] "[37mGET /api/v1.0/sms_codes/18234554752?image_code=yutd&image_code_id=46ab4559-f0de-4ef3-b129-e1ffa4ef863c HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:23:22] "[37mPOST /api/v1.0/users HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:23:22] "[37mGET /index.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:23:22] "[37mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:23:22] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:23:22] "[37mGET /static/css/ihome/index.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:23:22] "[37mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:23:22] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:23:22] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:23:22] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:23:22] "[37mGET /static/js/ihome/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:23:22] "[37mGET /static/images/home01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:23:22] "[37mGET /static/images/home02.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:23:22] "[37mGET /static/images/home03.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [27/Mar/2020 15:23:22] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:06:26] "[37mPOST /api/v1.0/sessions HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:07:50] "[37mPOST /api/v1.0/sessions HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:09:30] "[37mPOST /api/v1.0/sessions HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:09:32] "[37mPOST /api/v1.0/sessions HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:09:33] "[37mPOST /api/v1.0/sessions HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:09:34] "[37mPOST /api/v1.0/sessions HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:09:34] "[37mPOST /api/v1.0/sessions HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:10:40] "[37mPOST /api/v1.0/sessions HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:47] "[37mGET /detail.html?id=1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[37mGET /static/css/ihome/detail.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/css/reset.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/css/ihome/main.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/images/home01.jpg HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/js/jquery.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/js/template.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[37mGET /static/js/ihome/detail.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/images/home01.jpg HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/images/home02.jpg HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[36mGET /static/images/home03.jpg HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:48] "[37mGET /static/images/landlord01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:49] "[37mGET /static/images/houseicon_sprite.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:49] "[36mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:49] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:49] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:54] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:55] "[37mGET /login.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:55] "[37mGET /static/css/ihome/login.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:55] "[37mGET /static/js/ihome/login.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:24:55] "[36mGET /static/images/logo@128x59.png HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mPOST /api/v1.0/sessions HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/css/ihome/index.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/images/home01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/js/ihome/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/images/home02.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[37mGET /static/images/home03.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:10] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:17] "[37mGET /login.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:17] "[37mGET /static/css/ihome/login.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:17] "[37mGET /static/js/ihome/login.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:22] "[37mPOST /api/v1.0/sessions HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:29] "[37mPOST /api/v1.0/sessions HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:25:29] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:55] "[36mGET /login.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:55] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:59] "[37mGET /login.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:59] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:59] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:59] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:59] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:59] "[37mGET /static/css/ihome/login.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:59] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:59] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:59] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:59] "[37mGET /static/js/ihome/login.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:59] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:59] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:57:59] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:13] "[37mPOST /api/v1.0/sessions HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[37mPOST /api/v1.0/sessions HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[37mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[37mGET /static/css/ihome/index.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[37mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[37mGET /static/js/ihome/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[37mGET /static/images/home01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[37mGET /static/images/home02.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[37mGET /static/images/home03.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[37mGET /api/v1.0/session HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:18] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:20] "[37mGET /my.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:20] "[37mGET /static/css/ihome/my.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:20] "[37mGET /static/js/ihome/my.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:21] "[37mDELETE /api/v1.0/session HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:21] "[37mGET /index.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:21] "[37mGET /api/v1.0/session HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 16:58:21] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\utils\\commons.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:56:12] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:56:17] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:56:38] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:56:38] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:56:38] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:56:38] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:56:38] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:56:39] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:56:39] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:56:39] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:56:39] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:56:39] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:56:39] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:58:06] "[37mGET /api/v1.0/session HTTP/1.1[0m" 200 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:58:24] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:58:44] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:58:45] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:58:45] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:58:45] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:58:45] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF token has expired.
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:58:45] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:59:35] "[33mGET /api/v1.0/sessions HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:59:55] "[37mGET /login.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:59:55] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:59:55] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:59:55] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:59:55] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:59:55] "[37mGET /static/css/ihome/login.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:59:55] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:59:55] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:59:55] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:59:55] "[37mGET /static/js/ihome/login.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:59:55] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:59:55] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 19:59:55] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[37mPOST /api/v1.0/sessions HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[37mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[37mGET /static/css/ihome/index.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[37mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[37mGET /static/js/ihome/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[37mGET /static/images/home01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[37mGET /static/images/home02.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[37mGET /static/images/home03.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[37mGET /api/v1.0/session HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:07] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:10] "[37mGET /my.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:10] "[37mGET /static/css/ihome/my.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:10] "[37mGET /static/js/ihome/my.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:16] "[37mGET /myhouse.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:17] "[37mGET /static/css/ihome/myhouse.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:17] "[37mGET /static/js/ihome/myhouse.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:17] "[37mGET /detail.html?id={{house.house_id}}&f=my HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:17] "[37mGET /static/css/ihome/detail.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:17] "[37mGET /static/js/ihome/detail.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:17] "[37mGET /static/images/landlord01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:17] "[37mGET /static/images/houseicon_sprite.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:17] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:25] "[37mGET /api/v1.0/session HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:25] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:44] "[37mGET /profile.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:44] "[37mGET /static/css/ihome/profile.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:44] "[37mGET /static/js/jquery.form.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:00:44] "[37mGET /static/js/ihome/profile.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:49] "[36mGET /profile.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:49] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /profile.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /static/css/ihome/profile.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /static/js/jquery.form.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /static/js/ihome/profile.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:02:54] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:03:45] "[31m[1mPOST /api/profile/avatar HTTP/1.1[0m" 405 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:20] "[37mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:20] "[37mGET /static/css/ihome/index.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:20] "[37mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:20] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:20] "[37mGET /static/js/ihome/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:20] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:20] "[37mGET /static/images/home01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:20] "[37mGET /static/images/home02.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:20] "[37mGET /static/images/home03.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:21] "[37mGET /api/v1.0/session HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:25] "[37mGET /my.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:25] "[37mGET /static/css/ihome/my.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:25] "[37mGET /static/js/ihome/my.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /profile.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /static/css/ihome/profile.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /static/js/jquery.form.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /static/js/ihome/profile.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:39] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /profile.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /static/css/ihome/profile.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /static/js/jquery.form.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /static/js/ihome/profile.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:43] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:47] "[31m[1mPOST /api/v1.0/users/avatar HTTP/1.1[0m" 405 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:57] "[36mGET /profile.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:06:57] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:07:02] "[31m[1mPOST /api/v1.0/users/avatar HTTP/1.1[0m" 405 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /profile.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /static/css/ihome/profile.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /static/js/jquery.form.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /static/js/ihome/profile.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:42] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:09:48] "[31m[1mPOST /api/v1.0/users/avatar HTTP/1.1[0m" 405 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /profile.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /static/css/ihome/profile.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /static/js/jquery.form.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /static/js/ihome/profile.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:35] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:10:42] "[31m[1mPOST /api/v1.0/users/avatar HTTP/1.1[0m" 405 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:13:23] "[31m[1mPOST /api/v1.0/users/avatar HTTP/1.1[0m" 405 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /profile.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /static/css/ihome/profile.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /static/js/jquery.form.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /static/js/ihome/profile.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:17:09] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:18:29] "[31m[1mPOST /api/v1.0/users/avatar HTTP/1.1[0m" 405 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:20:25] "[31m[1mPOST /api/v1.0/users/avatar HTTP/1.1[0m" 405 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:20:27] "[31m[1mPOST /api/v1.0/users/avatar HTTP/1.1[0m" 405 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:31:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:31:52] "[37mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:31:52] "[37mGET /static/css/ihome/index.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:31:52] "[37mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:31:52] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:31:52] "[37mGET /static/js/ihome/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:31:52] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:31:52] "[37mGET /static/images/home01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:31:52] "[37mGET /static/images/home02.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:31:52] "[37mGET /static/images/home03.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:31:52] "[37mGET /api/v1.0/session HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:31:53] "[37mGET /my.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:31:53] "[37mGET /static/css/ihome/my.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:31:53] "[37mGET /static/js/ihome/my.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /profile.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /static/css/ihome/profile.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /static/js/jquery.form.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /static/js/ihome/profile.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:03] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:32:24] "[37mPOST /api/v1.0/users/avatar HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:41:12] "[37mGET /my.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:41:12] "[37mGET /static/css/ihome/my.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:41:12] "[37mGET /static/js/ihome/my.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\profile.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:04] "[37mGET /profile.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:04] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /profile.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /static/css/ihome/profile.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /static/js/jquery.form.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /static/js/ihome/profile.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:35] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:51] "[35m[1mGET /api/v1.0/user HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:51] "[37mGET /api/v1.0/user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:51] "[37mGET /api/v1.0/user?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:51] "[37mGET /api/v1.0/user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:51] "[37mGET /api/v1.0/user?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:51] "[37mGET /api/v1.0/user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 20:59:52] "[37mGET /api/v1.0/user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\models.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 21:24:19] "[31m[1mPOST /api/v1.0/areas HTTP/1.1[0m" 405 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 21:28:26] "[37mGET /api/v1.0/areas HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\houses.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\houses.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 21:47:28] "[37mGET /api/v1.0/areas HTTP/1.1[0m" 200 -
+INFO houses.py:22 hit redis area_info
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 21:48:13] "[37mGET /api/v1.0/areas HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\profile.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\profile.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\profile.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\profile.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\profile.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\profile.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\profile.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:42:48] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:42:48] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:42:53] "[37mGET /my.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:42:53] "[37mGET /static/css/ihome/my.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:42:53] "[37mGET /static/js/ihome/my.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:42:56] "[37mGET /myhouse.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:42:56] "[37mGET /static/css/ihome/myhouse.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:42:56] "[37mGET /static/images/home01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:42:56] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:42:56] "[37mGET /static/js/ihome/myhouse.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:19] "[37mGET /newhouse.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:19] "[37mGET /static/css/ihome/newhouse.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:19] "[37mGET /static/js/ihome/newhouse.js HTTP/1.1[0m" 200 -
+INFO houses.py:22 hit redis area_info
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:19] "[37mGET /api/v1.0/areas HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:28] "[36mGET /newhouse.html HTTP/1.1[0m" 304 -
+INFO houses.py:22 hit redis area_info
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:28] "[37mGET /api/v1.0/areas HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:28] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:39] "[36mGET /newhouse.html HTTP/1.1[0m" 304 -
+INFO houses.py:22 hit redis area_info
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:39] "[37mGET /api/v1.0/areas HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:39] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:46] "[37mGET /newhouse.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:46] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:46] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:47] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:47] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:47] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:47] "[37mGET /static/css/ihome/newhouse.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:47] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:47] "[37mGET /static/js/jquery.form.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:47] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:47] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:47] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:47] "[37mGET /static/js/ihome/newhouse.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:47] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:47] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO houses.py:22 hit redis area_info
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:47] "[37mGET /api/v1.0/areas HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:43:47] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:04] "[36mGET /newhouse.html HTTP/1.1[0m" 304 -
+INFO houses.py:22 hit redis area_info
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:04] "[37mGET /api/v1.0/areas HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:04] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /newhouse.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /static/css/ihome/newhouse.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /static/js/jquery.form.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /static/js/ihome/newhouse.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO houses.py:22 hit redis area_info
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /api/v1.0/areas HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:09] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /newhouse.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /static/css/ihome/newhouse.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /static/js/jquery.form.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /static/js/ihome/newhouse.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO houses.py:22 hit redis area_info
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /api/v1.0/areas HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 22:45:17] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:00] "[37mGET /newhouse.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:00] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /static/css/ihome/newhouse.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /static/js/jquery.form.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /static/js/ihome/newhouse.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO houses.py:22 hit redis area_info
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /api/v1.0/areas HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:10:01] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:14] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:14] "[37mGET /static/plugins/swiper/css/swiper.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:15] "[37mGET /static/css/ihome/index.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:15] "[37mGET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:15] "[37mGET /static/js/ihome/index.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:15] "[37mGET /static/images/logo@128x59.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:15] "[37mGET /static/images/home01.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:15] "[37mGET /static/images/home02.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:16] "[37mGET /static/images/home03.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:16] "[37mGET /api/v1.0/session HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:19] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:21] "[37mGET /my.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:21] "[37mGET /static/css/ihome/my.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:21] "[37mGET /static/js/ihome/my.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:22] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:26] "[37mDELETE /api/v1.0/session HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:26] "[37mGET /index.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:26] "[37mGET /api/v1.0/session HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:26] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:28] "[37mGET /register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:28] "[37mGET /static/css/ihome/register.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:28] "[37mGET /static/js/ihome/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:28] "[37mGET /api/v1.0/image_codes/a473963f-84b9-4942-b38d-0ab7395644f3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:44] "[37mGET /api/v1.0/sms_codes/18234554751?image_code=td9c&image_code_id=a473963f-84b9-4942-b38d-0ab7395644f3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:52] "[37mGET /api/v1.0/sms_codes/18234554752?image_code=td9c&image_code_id=a473963f-84b9-4942-b38d-0ab7395644f3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:54] "[37mGET /api/v1.0/image_codes/0b2ae787-95d1-4a0c-add4-712f8a9d55df HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:15:59] "[37mGET /api/v1.0/sms_codes/18234554752?image_code=4cst&image_code_id=0b2ae787-95d1-4a0c-add4-712f8a9d55df HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:17:25] "[37mGET /api/v1.0/image_codes/93e7f177-1554-48b3-b308-d5d73f839c55 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:17:26] "[37mGET /api/v1.0/image_codes/4fcd14d9-eac9-4012-8ab7-a3138829947f HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:17:36] "[37mGET /api/v1.0/sms_codes/18234554753?image_code=s5rr&image_code_id=4fcd14d9-eac9-4012-8ab7-a3138829947f HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:18:13] "[37mPOST /api/v1.0/users HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:18:18] "[37mGET /api/v1.0/session HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:18:18] "[33mGET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:18:22] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:18:25] "[37mGET /profile.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:18:25] "[37mGET /static/css/ihome/profile.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:18:25] "[37mGET /static/js/ihome/profile.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:18:25] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:18:37] "[37mPOST /api/v1.0/users/avatar HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:18:43] "[37mPUT /api/v1.0/users/name HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:18:47] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:19:04] "[37mGET /orders.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:19:04] "[37mGET /static/css/ihome/orders.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:19:04] "[37mGET /static/js/ihome/orders.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:19:06] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:19:07] "[37mGET /auth.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:19:07] "[37mGET /static/js/ihome/auth.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:19:08] "[37mGET /api/v1.0/users/auth HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:19:09] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:19:10] "[37mGET /myhouse.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:19:10] "[37mGET /static/css/ihome/myhouse.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:19:10] "[37mGET /static/js/ihome/myhouse.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:19:14] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:19:53] "[37mGET /api/v1.0/users/auth HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:20:08] "[37mPOST /api/v1.0/users/auth HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:20:11] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:20:12] "[37mGET /api/v1.0/users/auth HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:20:14] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:20:20] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:20:21] "[37mGET /api/v1.0/users/auth HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:20:23] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:20:25] "[37mGET /api/v1.0/users/auth HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:20:29] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [29/Mar/2020 23:20:36] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\profile.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 09:15:23] "[37mGET /api/v1.0/users/auth HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 09:15:26] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 09:15:29] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 09:15:43] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 09:15:46] "[37mGET /api/v1.0/user HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 09:18:34] "[37mGET /api/v1.0/areas HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\houses.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\houses.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\houses.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\houses.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\houses.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\houses.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:13] "[37mGET /newhouse.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:13] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:13] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:13] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:13] "[37mGET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:14] "[37mGET /static/css/ihome/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:14] "[37mGET /static/css/ihome/newhouse.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:14] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:14] "[37mGET /static/js/jquery.form.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:14] "[37mGET /static/js/template.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:14] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:14] "[37mGET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:14] "[37mGET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:14] "[37mGET /static/js/ihome/newhouse.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:14] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:14] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO houses.py:22 hit redis area_info
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:14] "[37mGET /api/v1.0/areas HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:30:14] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:32:32] "[31m[1mPOST /api/v1.0/houses/info HTTP/1.1[0m" 405 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:32:40] "[31m[1mPOST /api/v1.0/houses/info HTTP/1.1[0m" 405 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:32:57] "[31m[1mPOST /api/v1.0/houses/info HTTP/1.1[0m" 405 -
+INFO _internal.py:113  * Detected change in 'D:\\work\\ÏîÄ¿\\°®¼Ò×â·¿\\ihome\\ihome\\api_1_0\\houses.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 660-990-529
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:34:52] "[36mGET /newhouse.html HTTP/1.1[0m" 304 -
+INFO houses.py:23 hit redis area_info
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:34:53] "[37mGET /api/v1.0/areas HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:34:53] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:35:46] "[37mPOST /api/v1.0/houses/info HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:37:08] "[37mPOST /api/v1.0/houses/image HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [30/Mar/2020 10:37:14] "[37mPOST /api/v1.0/houses/image HTTP/1.1[0m" 200 -
